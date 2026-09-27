@@ -5,3 +5,6 @@ log011/work/*.wav
 log011/work/*.mp4
 log011/work/*.jpg
 log011/work/*.log
+log011/upload/*.mp4
+log011/work/p2*
+log011/work/chk/
